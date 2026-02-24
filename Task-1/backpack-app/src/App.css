@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.App-header {
+  margin-bottom: 2rem;
+}
+
+.App-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.App-header__title {
+  color: #0073bb;
+}
+
+#calendar {
+  margin-bottom: 1rem;
+}
